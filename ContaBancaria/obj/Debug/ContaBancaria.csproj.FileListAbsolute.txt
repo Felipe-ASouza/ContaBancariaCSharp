@@ -1,0 +1,7 @@
+C:\Users\Felipe\Desktop\C#\ContaBancaria\ContaBancaria\bin\Debug\ContaBancaria.exe
+C:\Users\Felipe\Desktop\C#\ContaBancaria\ContaBancaria\bin\Debug\ContaBancaria.pdb
+C:\Users\Felipe\Desktop\C#\ContaBancaria\ContaBancaria\obj\Debug\ContaBancaria.csproj.AssemblyReference.cache
+C:\Users\Felipe\Desktop\C#\ContaBancaria\ContaBancaria\obj\Debug\ContaBancaria.csproj.SuggestedBindingRedirects.cache
+C:\Users\Felipe\Desktop\C#\ContaBancaria\ContaBancaria\obj\Debug\ContaBancaria.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Desktop\C#\ContaBancaria\ContaBancaria\obj\Debug\ContaBancaria.exe
+C:\Users\Felipe\Desktop\C#\ContaBancaria\ContaBancaria\obj\Debug\ContaBancaria.pdb
